@@ -1,0 +1,1 @@
+# net.wowsoftware.hidemyemulator
