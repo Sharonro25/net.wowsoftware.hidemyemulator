@@ -39,6 +39,8 @@ Tick the apps you want to protect in the LSPosed scope. When one of them opens, 
 - **Location** — A believable last location instead of an empty one.
 - **Graphics** — The graphics chip shows a real phone GPU, not the emulator's.
 - **Processor** — Apps see a phone processor, not the PC chip the emulator runs on.
+- **Root** — Root stays out of sight, so apps that check for it see an ordinary unrooted phone.
+- **LSPosed and hooking** — The LSPosed framework and its hooks stay hidden, so apps cannot tell anything is attached.
 - **Everything matches** — Every detail describes the same phone, so nothing gives it away.
 - **Pick your apps** — Choose which apps get the real-phone look. Turn each part on or off with one tap.
 
